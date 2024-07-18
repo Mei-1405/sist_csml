@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    background: url(hello.jpg);
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,to top,rgba(0,0,0,0.5)50%);
+    background-position: center;
+    background-size: cover;
+    height: 110vh;
+}
+.head{
+    padding-left: 10px;
+    color: #ff7200;
+    float: left;
+    font-family: Arial;
+    margin-top: 25px;
+}
+.logo ion-icon{
+    gap: 10px;
+    padding: 10px;
+    font-size: 22px;
+    margin-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+.logo ion-icon:hover{
+    color: #ff7200;
+}
+#signup{
+    height: 400px;
+    width: 450px;
+    background-color: white;
+    opacity: 0.8;
+    position: absolute;
+    left: 37%;
+    top: 20%; 
+    background: transparent;
+    border: 1px solid rgba(252, 249, 249, 0.5);
+    border-radius: 20px;
+    box-shadow: 2px 2px 0.2px rgb(31, 31, 31);
+
+}
+#signup input{
+    height: 30px;
+    width: 200px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    color: black;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    outline: none;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: none;
+   
+}
+#signup input::placeholder{
+    color: black;
+}
+.BTN{
+    width: 160px;
+    height:30px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: #ff7200;
+}
+h1{
+    margin-top: 10px;
+    color: #ff7200;
+    background-color: white;
+    border-radius: 25px;
+    width: 350px;
+}
+.head2{
+    color: #ff7200;
+    margin-top: 10px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 25px;
+    width: 250px;
+}

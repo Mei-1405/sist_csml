@@ -1,0 +1,69 @@
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+  }
+  #navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  .banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dmrzseo7n/image/upload/v1721286184/WhatsApp_Image_2024-07-18_at_12.22.15_fb7ca21d_ad4x7o.jpg");
+    height: 100vh;
+    background-size: cover;
+  }
+  .banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #fcae1e;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #fcae1e;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fcae1e;
+    border-radius: 8px;
+  }
+  .sub{
+    color:#EE5A27;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: bold;
+    margin-left:5px;
+    margin-top:5px;
+  }
+  .food-sub-logo{
+    width: 40px;
+    height: 40px;
+    margin-right:5px;
+  }
